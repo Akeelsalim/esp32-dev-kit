@@ -5,17 +5,19 @@ This project is a custom PCB design of the **ESP32 DevKit**, created using  late
 ---
 
 ## 📷 Project Images
-#Schematic
-(images/pic1.PNG)
-![PCB Layout](images/pcb-layout.png)
-![ERC Warnings](images/erc.png)
-![DRC Warnings](images/drc.png)
-![PCB top view](images/PCBtopview.png)
-![PCB bottam view](images/PCBbottamview.png)
-![BOM](images/BOM.png)
-
-### ✅ Schematic
-![Schematic](images/schematic.png)
-
-### ✅ PCB Layout
-![PCB Layout](images/pcb-layout.png)
+# Schematic
+![schematic Layout](images/pic1.PNG)
+# PCB Layout
+![PCB Layout](images/pic3.PNG)
+# ERC
+![ERC Warnings](images/pic2.PNG)
+# DRC
+![DRC Warnings](images/pic4.png)
+# 3D top view
+![3D top view](images/pic5.PNG)
+# 3D bottom view
+![3D bottom view](images/pic6.PNG)
+# BOM
+![BOM](images/pic8.png)
+# FOOTPRINT VIEW
+![FOOTPRINT VIEW](images/pic7.PNG)
