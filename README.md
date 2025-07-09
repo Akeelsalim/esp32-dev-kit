@@ -19,5 +19,3 @@ This project is a custom PCB design of the **ESP32 DevKit**, created using  late
 ![3D bottom view](images/pic6.PNG)
 # BOM
 ![BOM](images/pic8.png)
-# FOOTPRINT VIEW
-![FOOTPRINT VIEW](images/pic7.PNG)
