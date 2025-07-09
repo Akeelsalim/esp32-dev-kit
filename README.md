@@ -4,7 +4,7 @@ This project is a custom PCB design of the **ESP32 DevKit**, created using  late
 
 ---
 
-## 📷 Project Images
+### 📷 Project Images
 # Schematic
 ![schematic Layout](images/pic1.PNG)
 # PCB Layout
